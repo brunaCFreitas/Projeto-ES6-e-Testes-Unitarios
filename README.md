@@ -55,4 +55,4 @@ Executar teste presente apenas no arquivo especificado
 
 ## Documentação
 
-[Jest](https://jestjs.io/pt-BR/docs/getting-started)
+* [Jest](https://jestjs.io/pt-BR/docs/getting-started)
