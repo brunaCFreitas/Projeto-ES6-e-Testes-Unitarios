@@ -13,7 +13,7 @@ Clone o repositório
 Entre no diretório
 
 ```bash
-    Projeto-ES6-e-Testes-Unitarios/
+    cd Projeto-ES6-e-Testes-Unitarios/
 ```
 
 Instale as dependências
@@ -25,13 +25,13 @@ Instale as dependências
 Para ver as funções, acesse o diretório SRC
 
 ```bash
-    src/
+    cd src/
 ```
 
 Para visualizar os testes, acesse o diretório TESTS
 
 ```bash
-    tests/
+    cd tests/
 ```
 
 ## Executar os testes
