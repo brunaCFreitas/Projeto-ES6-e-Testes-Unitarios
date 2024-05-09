@@ -1,6 +1,6 @@
 # Projeto ES6 e Testes Unitários
 
-Neste projeto implementei funções de acordo com os requisitos propostos e/ou testes unitários previamente desenvolvidos pela Trybe, colocando em prática o desenvolvimento orientado a testes. A ferramenta utilizada foi o `Jest`
+Neste projeto implementei funções de acordo com os requisitos propostos e/ou testes unitários previamente desenvolvidos pela Trybe, colocando em prática o desenvolvimento orientado a testes. A ferramenta utilizada foi o `Jest`.
 
 
 ## Executar Localmente
